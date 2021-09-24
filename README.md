@@ -1,0 +1,2 @@
+# Ahorcado
+Juega o pierde
